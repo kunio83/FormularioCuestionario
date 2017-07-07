@@ -223,7 +223,7 @@
             this.dataTable1DataGridView.DataSource = this.dataTable1BindingSource;
             this.dataTable1DataGridView.Location = new System.Drawing.Point(0, 28);
             this.dataTable1DataGridView.Name = "dataTable1DataGridView";
-            this.dataTable1DataGridView.Size = new System.Drawing.Size(1006, 568);
+            this.dataTable1DataGridView.Size = new System.Drawing.Size(862, 509);
             this.dataTable1DataGridView.TabIndex = 1;
             // 
             // dataGridViewTextBoxColumn1
